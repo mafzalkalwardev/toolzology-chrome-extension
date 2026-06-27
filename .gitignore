@@ -1,0 +1,10 @@
+# Secrets / build
+.env
+node_modules/
+dist/
+*.pem
+*.crx
+
+# OS
+.DS_Store
+Thumbs.db
